@@ -1,4 +1,4 @@
-module github.com/project-flogo/core
+module github.com/JCorpse96/core
 
 require (
 	github.com/araddon/dateparse v0.0.0-20190622164848-0fb0a474d195
