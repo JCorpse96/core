@@ -6,11 +6,11 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/coerce"
-	"github.com/project-flogo/core/data/expression/function"
-	_ "github.com/project-flogo/core/data/expression/script"
-	"github.com/project-flogo/core/data/resolve"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/coerce"
+	"github.com/JCorpse96/core/data/expression/function"
+	_ "github.com/JCorpse96/core/data/expression/script"
+	"github.com/JCorpse96/core/data/resolve"
 	"github.com/stretchr/testify/assert"
 )
 

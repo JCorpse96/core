@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/project-flogo/core/support"
+	"github.com/JCorpse96/core/support"
 )
 
 // Config is the configuration for the Engine, assumes all necessary imports have been add to go code

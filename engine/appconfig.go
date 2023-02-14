@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/project-flogo/core/app"
-	"github.com/project-flogo/core/data/schema"
-	"github.com/project-flogo/core/engine/secret"
-	"github.com/project-flogo/core/support"
+	"github.com/JCorpse96/core/app"
+	"github.com/JCorpse96/core/data/schema"
+	"github.com/JCorpse96/core/engine/secret"
+	"github.com/JCorpse96/core/support"
 )
 
 var appName, appVersion string

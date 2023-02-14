@@ -3,7 +3,7 @@ package resolve
 import (
 	"fmt"
 
-	"github.com/project-flogo/core/data"
+	"github.com/JCorpse96/core/data"
 )
 
 var scopeResolverInfo = NewResolverInfo(false, false)

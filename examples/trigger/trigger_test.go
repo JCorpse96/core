@@ -3,8 +3,8 @@ package sample
 import (
 	"testing"
 
-	"github.com/project-flogo/core/support"
-	"github.com/project-flogo/core/trigger"
+	"github.com/JCorpse96/core/support"
+	"github.com/JCorpse96/core/trigger"
 	"github.com/stretchr/testify/assert"
 )
 

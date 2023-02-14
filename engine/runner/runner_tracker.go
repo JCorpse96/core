@@ -1,8 +1,8 @@
 package runner
 
 import (
-	"github.com/project-flogo/core/app"
-	"github.com/project-flogo/core/support/log"
+	"github.com/JCorpse96/core/app"
+	"github.com/JCorpse96/core/support/log"
 	"sync"
 	"time"
 )

@@ -1,8 +1,8 @@
 package trigger
 
 import (
-	"github.com/project-flogo/core/support/log"
-	"github.com/project-flogo/core/support/managed"
+	"github.com/JCorpse96/core/support/log"
+	"github.com/JCorpse96/core/support/managed"
 )
 
 // Trigger is object that triggers/starts flow instances and

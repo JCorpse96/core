@@ -13,5 +13,5 @@ func TestGetRef(t *testing.T) {
 
 	ts := &TestStruct{}
 	ref := GetRef(ts)
-	assert.Equal(t, "github.com/project-flogo/core/support", ref)
+	assert.Equal(t, "github.com/JCorpse96/core/support", ref)
 }

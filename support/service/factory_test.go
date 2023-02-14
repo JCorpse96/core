@@ -34,7 +34,7 @@ func TestRegisterFactory(t *testing.T) {
 	err := RegisterFactory(ts)
 	assert.Nil(t, err)
 
-	f := serviceFactories["github.com/project-flogo/core/support/service"]
+	f := serviceFactories["github.com/JCorpse96/core/support/service"]
 	assert.Equal(t, ts, f)
 
 	err = RegisterFactory(ts)

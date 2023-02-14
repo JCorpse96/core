@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/path"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/path"
 )
 
 var defaultResolver = NewCompositeResolver(map[string]Resolver{

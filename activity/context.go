@@ -1,10 +1,10 @@
 package activity
 
 import (
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/metadata"
-	"github.com/project-flogo/core/support/log"
-	"github.com/project-flogo/core/support/trace"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/metadata"
+	"github.com/JCorpse96/core/support/log"
+	"github.com/JCorpse96/core/support/trace"
 )
 
 // Context describes the execution context for an Activity.

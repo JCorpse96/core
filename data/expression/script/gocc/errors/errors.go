@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/project-flogo/core/data/expression/script/gocc/token"
+	"github.com/JCorpse96/core/data/expression/script/gocc/token"
 )
 
 type ErrorSymbol interface {

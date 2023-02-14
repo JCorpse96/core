@@ -3,8 +3,8 @@ package builtin
 import (
 	"reflect"
 
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/expression/function"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/expression/function"
 )
 
 func init() {

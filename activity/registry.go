@@ -2,8 +2,8 @@ package activity
 
 import (
 	"fmt"
-	"github.com/project-flogo/core/support"
-	"github.com/project-flogo/core/support/log"
+	"github.com/JCorpse96/core/support"
+	"github.com/JCorpse96/core/support/log"
 )
 
 var (

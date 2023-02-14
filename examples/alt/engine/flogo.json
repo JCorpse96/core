@@ -5,8 +5,8 @@
   "description": "My flogo application description",
   "appModel": "1.1.0",
   "imports": [
-    "github.com/project-flogo/contrib@latest:/activity/log",
-    "github.com/project-flogo/contrib@latest:/trigger/rest",
+    "github.com/JCorpse96/contrib@latest:/activity/log",
+    "github.com/JCorpse96/contrib@latest:/trigger/rest",
     "github.com/project-flogo/flow@latest"
   ],
   "triggers": [

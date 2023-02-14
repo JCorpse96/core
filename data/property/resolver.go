@@ -3,8 +3,8 @@ package property
 import (
 	"fmt"
 
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/resolve"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/resolve"
 )
 
 var propertyResolverInfo = resolve.NewResolverInfo(!IsPropertySnapshotEnabled(), true)

@@ -35,7 +35,7 @@ connection is defined once in the flogo.json and can shared between multiple res
   "ref": "#sql",
   "settings": {
     "connection": {
-      "ref" : "github.com/project-flogo/contrib/connection/sql",
+      "ref" : "github.com/JCorpse96/contrib/connection/sql",
       "settings" : {
         "dbType": "mysql",
         "driver": "mysql",
@@ -51,7 +51,7 @@ connection is defined once in the flogo.json and can shared between multiple res
 ```json
 "connections": {
   "myConn": {
-    "ref" : "github.com/project-flogo/contrib/connection/sql",
+    "ref" : "github.com/JCorpse96/contrib/connection/sql",
     "settings" : {
       "dbType": "mysql",
       "driver": "mysql",

@@ -112,7 +112,7 @@ func TestGetFactoriesOk(t *testing.T) {
 	_ = Register(act, testFactory)
 
 	// Get factory
-	f := GetFactory("github.com/project-flogo/core/activity")
+	f := GetFactory("github.com/JCorpse96/core/activity")
 	assert.NotNil(t, f)
 }
 

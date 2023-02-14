@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/project-flogo/core/action"
-	"github.com/project-flogo/core/data/expression"
-	"github.com/project-flogo/core/data/mapper"
-	"github.com/project-flogo/core/data/schema"
-	"github.com/project-flogo/core/support"
-	"github.com/project-flogo/core/support/log"
-	"github.com/project-flogo/core/support/managed"
-	"github.com/project-flogo/core/trigger"
+	"github.com/JCorpse96/core/action"
+	"github.com/JCorpse96/core/data/expression"
+	"github.com/JCorpse96/core/data/mapper"
+	"github.com/JCorpse96/core/data/schema"
+	"github.com/JCorpse96/core/support"
+	"github.com/JCorpse96/core/support/log"
+	"github.com/JCorpse96/core/support/managed"
+	"github.com/JCorpse96/core/trigger"
 )
 
 func (a *App) createSharedActions(actionConfigs []*action.Config) (map[string]action.Action, error) {

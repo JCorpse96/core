@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"unicode/utf8"
 
-	"github.com/project-flogo/core/data/expression/script/gocc/token"
+	"github.com/JCorpse96/core/data/expression/script/gocc/token"
 )
 
 const (

@@ -3,7 +3,7 @@ package json
 import (
 	"errors"
 
-	"github.com/project-flogo/core/data/schema"
+	"github.com/JCorpse96/core/data/schema"
 	"github.com/xeipuuv/gojsonschema"
 )
 

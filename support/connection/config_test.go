@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	appresolve "github.com/project-flogo/core/app/resolve"
-	"github.com/project-flogo/core/data/resolve"
+	appresolve "github.com/JCorpse96/core/app/resolve"
+	"github.com/JCorpse96/core/data/resolve"
 )
 
 func TestResolveConfig(t *testing.T) {

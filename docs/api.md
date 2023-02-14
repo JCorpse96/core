@@ -241,12 +241,12 @@ package main
 import (
 	"fmt"
 
-	"github.com/project-flogo/core/api"
-	"github.com/project-flogo/core/engine"
+	"github.com/JCorpse96/core/api"
+	"github.com/JCorpse96/core/engine"
 	"github.com/project-flogo/flow"
 
-	_ "github.com/project-flogo/contrib/activity/log" //our flow contains a log activity, so we need to include this
-	"github.com/project-flogo/contrib/trigger/rest"
+	_ "github.com/JCorpse96/contrib/activity/log" //our flow contains a log activity, so we need to include this
+	"github.com/JCorpse96/contrib/trigger/rest"
 )
 
 func main() {
@@ -306,8 +306,8 @@ Complete Example
 ```go
 import (
 ...
-"github.com/project-flogo/core/activity"
-"github.com/project-flogo/core/api"
+"github.com/JCorpse96/core/activity"
+"github.com/JCorpse96/core/api"
 ...
 )
 
@@ -378,8 +378,8 @@ Just like running activities, you might want to directly run a certain action. T
 ```go
 import (
 ...
-"github.com/project-flogo/core/action"
-"github.com/project-flogo/core/api"
+"github.com/JCorpse96/core/action"
+"github.com/JCorpse96/core/api"
 cml"github.com/project-flogo/catalystml-flogo/action"
 ...
 )

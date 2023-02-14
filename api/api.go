@@ -6,16 +6,16 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/project-flogo/core/action"
-	"github.com/project-flogo/core/app"
-	"github.com/project-flogo/core/app/resource"
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/coerce"
-	"github.com/project-flogo/core/data/metadata"
-	"github.com/project-flogo/core/engine"
-	"github.com/project-flogo/core/engine/runner"
-	"github.com/project-flogo/core/support"
-	"github.com/project-flogo/core/trigger"
+	"github.com/JCorpse96/core/action"
+	"github.com/JCorpse96/core/app"
+	"github.com/JCorpse96/core/app/resource"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/coerce"
+	"github.com/JCorpse96/core/data/metadata"
+	"github.com/JCorpse96/core/engine"
+	"github.com/JCorpse96/core/engine/runner"
+	"github.com/JCorpse96/core/support"
+	"github.com/JCorpse96/core/trigger"
 )
 
 // App is the structure that defines an application

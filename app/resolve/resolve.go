@@ -1,6 +1,6 @@
 package resolve
 
-import "github.com/project-flogo/core/data"
+import "github.com/JCorpse96/core/data"
 
 var r simpleResolve
 

@@ -2,7 +2,7 @@ package ast
 
 import (
 	"fmt"
-	"github.com/project-flogo/core/data/expression/script/gocc/token"
+	"github.com/JCorpse96/core/data/expression/script/gocc/token"
 )
 
 func Concat(items ...interface{}) ([]interface{}, error) {

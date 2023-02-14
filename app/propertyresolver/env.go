@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/project-flogo/core/data/property"
-	"github.com/project-flogo/core/support/log"
+	"github.com/JCorpse96/core/data/property"
+	"github.com/JCorpse96/core/support/log"
 )
 
 const EnvAppPropertyEnvConfigKey = "FLOGO_APP_PROPS_ENV"

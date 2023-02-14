@@ -1,8 +1,8 @@
 package sample
 
 import (
-	"github.com/project-flogo/core/activity"
-	"github.com/project-flogo/core/data/metadata"
+	"github.com/JCorpse96/core/activity"
+	"github.com/JCorpse96/core/data/metadata"
 )
 
 func init() {

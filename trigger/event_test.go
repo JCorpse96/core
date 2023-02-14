@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/project-flogo/core/engine/event"
+	"github.com/JCorpse96/core/engine/event"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,13 +1,13 @@
 package test
 
 import (
-	"github.com/project-flogo/core/activity"
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/mapper"
-	"github.com/project-flogo/core/data/metadata"
-	"github.com/project-flogo/core/data/resolve"
-	"github.com/project-flogo/core/support/log"
-	"github.com/project-flogo/core/support/trace"
+	"github.com/JCorpse96/core/activity"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/mapper"
+	"github.com/JCorpse96/core/data/metadata"
+	"github.com/JCorpse96/core/data/resolve"
+	"github.com/JCorpse96/core/support/log"
+	"github.com/JCorpse96/core/support/trace"
 )
 
 var logger = log.ChildLogger(log.RootLogger(), "test")

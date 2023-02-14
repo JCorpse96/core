@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/project-flogo/core/support/log"
-	"github.com/project-flogo/core/trigger"
+	"github.com/JCorpse96/core/support/log"
+	"github.com/JCorpse96/core/trigger"
 )
 
 const (

@@ -76,7 +76,7 @@ Sample engine runtime configuration file.
   "type": "flogo:engine",
   "imports": [
     "github.com/project-flogo/services/flow-state/client/rest@master",
-    "github.com/project-flogo/stream/service/telemetry@master"
+    "github.com/JCorpse96/stream/service/telemetry@master"
   ],
   "actionSettings": {
     "github.com/project-flogo/flow": {
@@ -86,7 +86,7 @@ Sample engine runtime configuration file.
   "services": [
     {
       "name": "telemetry",
-      "ref": "github.com/project-flogo/stream/service/telemetry",
+      "ref": "github.com/JCorpse96/stream/service/telemetry",
       "enabled": true
     },
     {

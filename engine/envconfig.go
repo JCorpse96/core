@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/project-flogo/core/app/propertyresolver"
-	"github.com/project-flogo/core/data/property"
-	"github.com/project-flogo/core/engine/runner"
-	"github.com/project-flogo/core/support/log"
+	"github.com/JCorpse96/core/app/propertyresolver"
+	"github.com/JCorpse96/core/data/property"
+	"github.com/JCorpse96/core/engine/runner"
+	"github.com/JCorpse96/core/support/log"
 )
 
 const (

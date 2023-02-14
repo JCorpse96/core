@@ -4,12 +4,12 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/project-flogo/core/action"
-	"github.com/project-flogo/core/app/resource"
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/schema"
-	"github.com/project-flogo/core/support/connection"
-	"github.com/project-flogo/core/trigger"
+	"github.com/JCorpse96/core/action"
+	"github.com/JCorpse96/core/app/resource"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/schema"
+	"github.com/JCorpse96/core/support/connection"
+	"github.com/JCorpse96/core/trigger"
 )
 
 const (

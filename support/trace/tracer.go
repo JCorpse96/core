@@ -1,6 +1,6 @@
 package trace
 
-import "github.com/project-flogo/core/support/managed"
+import "github.com/JCorpse96/core/support/managed"
 
 // CarrierFormat defines the format of the propogation that needs to injected or extracted
 type CarrierFormat byte

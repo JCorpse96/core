@@ -3,7 +3,7 @@ package expression
 import (
 	"testing"
 
-	"github.com/project-flogo/core/data"
+	"github.com/JCorpse96/core/data"
 	"github.com/stretchr/testify/assert"
 )
 

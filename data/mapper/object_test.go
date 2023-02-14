@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/property"
-	"github.com/project-flogo/core/data/resolve"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/property"
+	"github.com/JCorpse96/core/data/resolve"
 
 	"github.com/stretchr/testify/assert"
 )

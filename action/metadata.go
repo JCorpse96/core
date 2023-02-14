@@ -3,8 +3,8 @@ package action
 import (
 	"encoding/json"
 
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/metadata"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/metadata"
 )
 
 type Metadata struct {

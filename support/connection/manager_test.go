@@ -1,7 +1,7 @@
 package connection
 
 import (
-	"github.com/project-flogo/core/support"
+	"github.com/JCorpse96/core/support"
 	"reflect"
 	"testing"
 )

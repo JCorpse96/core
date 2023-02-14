@@ -2,9 +2,9 @@ package mapper
 
 import (
 	"fmt"
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/coerce"
-	"github.com/project-flogo/core/data/expression"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/coerce"
+	"github.com/JCorpse96/core/data/expression"
 	"strings"
 )
 

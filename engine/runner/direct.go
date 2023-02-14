@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/project-flogo/core/action"
+	"github.com/JCorpse96/core/action"
 )
 
 // DirectRunner runs an action synchronously

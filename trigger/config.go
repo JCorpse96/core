@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/project-flogo/core/action"
-	"github.com/project-flogo/core/data/expression"
-	"github.com/project-flogo/core/data/metadata"
-	"github.com/project-flogo/core/data/resolve"
+	"github.com/JCorpse96/core/action"
+	"github.com/JCorpse96/core/data/expression"
+	"github.com/JCorpse96/core/data/metadata"
+	"github.com/JCorpse96/core/data/resolve"
 )
 
 // Config is the configuration for a Trigger

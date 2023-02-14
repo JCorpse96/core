@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	_ "github.com/project-flogo/core/examples/action"
-	_ "github.com/project-flogo/core/examples/trigger"
+	_ "github.com/JCorpse96/core/examples/action"
+	_ "github.com/JCorpse96/core/examples/trigger"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -16,13 +16,13 @@ var app = `{
 	"description": "My flogo application description",
 	"appModel": "1.1.0",
 	"imports": [
-	  "github.com/project-flogo/core/examples/trigger",
-	  "github.com/project-flogo/core/examples/action"
+	  "github.com/JCorpse96/core/examples/trigger",
+	  "github.com/JCorpse96/core/examples/action"
 	],
 	"triggers": [
 	  {
 		"id": "my_trigger",
-		"ref": "github.com/project-flogo/core/examples/trigger",
+		"ref": "github.com/JCorpse96/core/examples/trigger",
 		"settings": {
 		  "aSetting": 2
 		},
@@ -33,7 +33,7 @@ var app = `{
 			},
 			"actions": [
 			  {
-				"ref": "github.com/project-flogo/core/examples/action",
+				"ref": "github.com/JCorpse96/core/examples/action",
 				"settings": {
 				  "aSetting": "a"
 				},

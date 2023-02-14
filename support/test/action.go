@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/project-flogo/core/app/resource"
-	"github.com/project-flogo/core/support/service"
+	"github.com/JCorpse96/core/app/resource"
+	"github.com/JCorpse96/core/support/service"
 )
 
 func NewActionInitCtx() *ActionInitCtx {

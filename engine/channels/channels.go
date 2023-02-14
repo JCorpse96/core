@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/project-flogo/core/support/log"
+	"github.com/JCorpse96/core/support/log"
 )
 
 var channels = make(map[string]*channelImpl)

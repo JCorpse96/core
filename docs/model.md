@@ -21,8 +21,8 @@ The imports section allows one to define all the contributions that should be im
 ```json
   "imports": [
     "github.com/project-flogo/flow",
-    "github.com/project-flogo/contrib/trigger/rest",
-    "github.com/project-flogo/contrib/activity/log"
+    "github.com/JCorpse96/contrib/trigger/rest",
+    "github.com/JCorpse96/contrib/activity/log"
   ],
 ```
 
@@ -211,7 +211,7 @@ activities.  It allows you to define a connection once and use it in multiple pl
 ```json
 "connections": {
   "myConn": {
-    "ref" : "github.com/project-flogo/contrib/connection/sql",
+    "ref" : "github.com/JCorpse96/contrib/connection/sql",
     "settings" : {
       "dbType": "mysql",
       "driver": "mysql",
@@ -244,8 +244,8 @@ Sample flogo application configuration file.
   "description": "My flogo application description",
   "imports": [
     "github.com/project-flogo/flow",
-    "github.com/project-flogo/contrib/trigger/rest",
-    "github.com/project-flogo/contrib/activity/log"
+    "github.com/JCorpse96/contrib/trigger/rest",
+    "github.com/JCorpse96/contrib/activity/log"
   ],
   "triggers": [
     {

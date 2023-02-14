@@ -2,12 +2,12 @@ package ast
 
 import (
 	"fmt"
-	"github.com/project-flogo/core/data"
-	"github.com/project-flogo/core/data/resolve"
+	"github.com/JCorpse96/core/data"
+	"github.com/JCorpse96/core/data/resolve"
 	"strings"
 
-	"github.com/project-flogo/core/data/coerce"
-	"github.com/project-flogo/core/data/expression/script/gocc/token"
+	"github.com/JCorpse96/core/data/coerce"
+	"github.com/JCorpse96/core/data/expression/script/gocc/token"
 )
 
 type literalExpr struct {

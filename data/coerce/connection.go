@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/project-flogo/core/support/connection"
+	"github.com/JCorpse96/core/support/connection"
 )
 
 func ToConnection(val interface{}) (connection.Manager, error) {

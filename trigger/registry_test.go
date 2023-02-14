@@ -3,7 +3,7 @@ package trigger
 import (
 	"testing"
 
-	"github.com/project-flogo/core/action"
+	"github.com/JCorpse96/core/action"
 	"github.com/stretchr/testify/assert"
 )
 
